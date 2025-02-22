@@ -1,6 +1,6 @@
 # Objection File Extractor
 
-Downloads directories and file recursively through Objection while maintaining the original file structure*
+Downloads directories and files recursively through Objection while maintaining the original file structure*
 Supports both Android and iOS patched apps.
 
 ## Why?
